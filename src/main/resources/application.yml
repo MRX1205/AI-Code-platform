@@ -1,0 +1,17 @@
+spring:
+    application:
+          name: lyhm-ai-code-platform
+server:
+  port: 1205
+  servlet:
+    context-path: /api
+# springdoc-openapi
+springdoc:
+  group-configs:
+    - group: 'default'
+      packages-to-scan: com.lyhm.lyhmaicodeplatform.controller
+
+knife4j:
+  enable: true
+  setting:
+    language: zh_cn
