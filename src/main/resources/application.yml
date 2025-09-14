@@ -2,7 +2,7 @@ spring:
     application:
           name: lyhm-ai-code-platform
 server:
-  port: 1205
+  port: 8123
   servlet:
     context-path: /api
 # springdoc-openapi
