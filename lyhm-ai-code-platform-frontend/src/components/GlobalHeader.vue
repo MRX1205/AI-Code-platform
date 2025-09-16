@@ -56,7 +56,7 @@ const menuItems = ref([
   },
   {
     key: 'others',
-    label: h('a', { href: 'https://www.codefather.cn', target: '_blank' }, '编程导航'),
+    label: h('a', { href: 'http://lyhlz.cn', target: '_blank' }, '掠影航猫'),
     title: '编程导航',
   },
 ])
