@@ -8,7 +8,7 @@
           rel="noopener noreferrer"
           class="author-link"
         >
-           掠影航猫
+           掠影航猫AI零代码应用生成平台
         </a>
       </p>
     </div>
