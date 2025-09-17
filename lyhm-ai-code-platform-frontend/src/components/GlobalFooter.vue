@@ -3,7 +3,7 @@
     <div class="footer-content">
       <p class="copyright">
         <a
-          href="http://lyhlz.cn"
+          href="https://www.lyhlz.cn"
           target="_blank"
           rel="noopener noreferrer"
           class="author-link"
