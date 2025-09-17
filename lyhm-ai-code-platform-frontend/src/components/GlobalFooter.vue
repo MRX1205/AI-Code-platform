@@ -3,12 +3,12 @@
     <div class="footer-content">
       <p class="copyright">
         <a
-          href="https://www.lyhlz.cn"
+          href="http://lyhlz.cn"
           target="_blank"
           rel="noopener noreferrer"
           class="author-link"
         >
-           掠影航猫
+           掠影航猫AI零代码应用生成平台
         </a>
       </p>
     </div>
