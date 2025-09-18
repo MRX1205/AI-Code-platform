@@ -57,7 +57,7 @@ const menuItems = ref([
   {
     key: 'others',
     label: h('a', { href: 'http://lyhlz.cn', target: '_blank' }, '掠影航猫'),
-    title: '掠影航猫',
+    title: '掠影航猫主页',
   },
 ])
 
