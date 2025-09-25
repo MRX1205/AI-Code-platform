@@ -1,6 +1,15 @@
 spring:
     application:
           name: lyhm-ai-code-platform
+    #mysql
+    datasource:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/lyhm_ai_code_platform
+      username: root
+      password: 123456
+    profiles:
+      active: local
+
 server:
   port: 8123
   servlet:
