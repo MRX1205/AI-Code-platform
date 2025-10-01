@@ -1,4 +1,4 @@
-package com.lyhm.lyhmaicodeplatform.model.dto.user;
+package com.lyhm.lyhmaicodeplatform.model.dto;
 
 import com.lyhm.lyhmaicodeplatform.common.PageRequest;
 import lombok.Data;

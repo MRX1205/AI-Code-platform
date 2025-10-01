@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "pure-build": "vite build",
     "build": "run-p type-check \"build-only {@}\" --",
     "openapi2ts": "openapi2ts",
     "preview": "vite preview",
@@ -16,6 +17,8 @@
   "dependencies": {
     "ant-design-vue": "^4.2.6",
     "axios": "^1.12.2",
+    "highlight.js": "^11.11.1",
+    "markdown-it": "^14.1.0",
     "pinia": "^3.0.3",
     "vue": "^3.5.17",
     "vue-router": "^4.5.1"
